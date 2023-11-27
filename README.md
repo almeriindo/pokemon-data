@@ -1,3 +1,7 @@
+# Original repository
+https://github.com/fanzeyi/pokemon.json.git
+by fanzeyi
+
 # Pokemon.json
 
 This repository provides a basic dataset of all Pokemons.
